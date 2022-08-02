@@ -1,0 +1,17 @@
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\bin\Debug\net6.0-windows\stopwatch.exe
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\bin\Debug\net6.0-windows\stopwatch.deps.json
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\bin\Debug\net6.0-windows\stopwatch.runtimeconfig.json
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\bin\Debug\net6.0-windows\stopwatch.dll
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\bin\Debug\net6.0-windows\stopwatch.pdb
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.csproj.AssemblyReference.cache
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.stopwatch.resources
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.csproj.GenerateResource.cache
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.AssemblyInfoInputs.cache
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.AssemblyInfo.cs
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.csproj.CoreCompileInputs.cache
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.dll
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\refint\stopwatch.dll
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.pdb
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\stopwatch.genruntimeconfig.cache
+G:\Other computers\My computer\_private\projects\stopwatch\stopwatch\obj\Debug\net6.0-windows\ref\stopwatch.dll
